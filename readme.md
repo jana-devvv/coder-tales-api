@@ -14,7 +14,7 @@ CoderTalesApi is an API designed for managing a personal blog, built using Expre
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/jana-devvv/coder-tales-api.git 
+    git clone https://github.com/jana-devvv/coder-tales-api.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -122,4 +122,4 @@ curl -X POST http://localhost:3000/api/auth/register -d '{
 - **tsconfig.json**: Typescript configuration file that defines compiler options and settings for your typescript project.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
